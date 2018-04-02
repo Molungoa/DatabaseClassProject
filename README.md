@@ -6,4 +6,4 @@
    
 ## Tableau Story Telling Project
    [View Project](https://public.tableau.com/views/TableauStoryTelling/VideoGameSales?:embed=y&:display_count=yes&publish=yes)
-   {% includes TableauStoryTelling.html %}    
+   {% include TableauStoryTelling.html %}    
