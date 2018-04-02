@@ -4,6 +4,5 @@
 
    [Download PDF](https://Molungoa.github.io/MyProjects/DatabaseProject.pdf)
    
-
-   ## Tableau Story Telling Project
+## Tableau Story Telling Project
    {% include TableauStoryTelling.html %}
