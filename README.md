@@ -5,4 +5,4 @@
    [Download PDF](https://Molungoa.github.io/MyProjects/DatabaseProject.pdf)
    
 ## Tableau Story Telling Project
-   {% include TableauStoryTelling.html %}
+    [View Project](https://public.tableau.com/views/TableauStoryTelling/VideoGameSales?:embed=y&:display_count=yes&publish=yes)
